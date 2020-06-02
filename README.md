@@ -1,4 +1,6 @@
 # LOSC_Event_tutorial
-The home for this is https://losc.ligo.org/tutorials/
+This repository is forked, the home for this is https://losc.ligo.org/tutorials/
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/losc-tutorial/LOSC_Event_tutorial)
+Click the icon below to launch an interactive notebook
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GrEAT-Network/LOSC_Event_tutorial/master)
